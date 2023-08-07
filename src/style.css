@@ -16,4 +16,32 @@
   ::-webkit-scrollbar-track {
     background-color: #f1f1f1;
   }
-  
+
+  .card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.card-content {
+    flex-grow: 1;
+}
+.has-fixed-height {
+    height: 200px; /* Itt megadhatod a kívánt fix magasságot */
+    overflow: auto; /* Túlcsordulás esetén görgetősáv jelenik meg */
+}
+
+.cim-fixed{
+    height: 60px;
+}
+
+.footer {
+    margin-top: 20px;
+    border-top: 1px solid #ccc; /* Vékonyabb szegély a lábléc tetején */
+    padding-top: 10px; /* Tetejének belső margója */
+    padding-bottom: 10px; /* Aljának belső margója */
+}
+
+.footer .content {
+    font-size: 14px; /* Vékonyabb szöveg mérete */
+}
+

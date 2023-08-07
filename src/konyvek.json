@@ -2,85 +2,85 @@
     {
         "title": "A Gyűrűk Ura",
         "author": "J.R.R. Tolkien",
-        "description": "Lorem Ipsum",
+        "description": "A Gyűrűk Ura J.R.R. Tolkien közismert és népszerű fantasy regénysorozata, mely az Újkorban játszódik. A történet középpontjában a Gyűrű áll, amelyet Sauron, a Sötétség Nagyúra készített, hogy uralma alá hajtsa a világot.",
         "year": 1954,
         "image": "1"
     },
     {
         "title": "Harry Potter és a bölcsek köve",
         "author": "J.K. Rowling",
-        "description": "Lorem Ipsum",
+        "description": "Harry Potter és a bölcsek köve J.K. Rowling angol írónő első regénye, amely a Harry Potter regénysorozatot indította el. A történet a fiatal varázsló, Harry Potter kalandjait követi nyomon a Roxfort Boszorkány- és Varázslóképző Szakiskolában.",
         "year": 1997,
         "image": "2"
     },
     {
         "title": "Az idő rövid története",
         "author": "Stephen Hawking",
-        "description": "Lorem Ipsum",
+        "description": "Az idő rövid története Stephen Hawking világhírű elméleti fizikus könyve, amelyben a kozmológiai elméleteket és az idő dimenzióját vizsgálja. A könyv népszerűen és érthetően fogalmazza meg a fizika legkomplexebb témáit.",
         "year": 1988,
         "image": "3"
     },
     {
-        "title": "Az Alkimista",
-        "author": "Paulo Coelho",
-        "description": "Lorem Ipsum",
-        "year": 1988,
+        "title": "Percy Jackson - Az olimposz hőse",
+        "author": "Rick Riordan",
+        "description": "Percy Jackson - Az Olimposz hőse Rick Riordan amerikai író ifjúsági regénysorozata, amely a görög mitológiát és a modern világot ötvözi. A történet Percy Jacksonról szól, aki felfedezi, hogy görög istenek leszármazottja és különleges képességei vannak.",
+        "year": 2005,
         "image": "4"
     },
     {
-        "title": "Május és társai",
-        "author": "Május József",
-        "description": "Lorem Ipsum",
-        "year": 1956,
+        "title": "Az alkimista",
+        "author": "Paulo Coelho",
+        "description": "Az alkimista Paulo Coelho brazil író világszerte népszerű regénye, amely egy pásztort, Santiagót követi nyomon az álmai megvalósítása felé vezető úton. A könyv a célkitűzések, az álmok és a személyes fejlődés témáját járja körül.",
+        "year": 1988,
         "image": "5"
     },
     {
-        "title": "Don Quijote",
-        "author": "Miguel de Cervantes",
-        "description": "Lorem Ipsum",
-        "year": 1605,
+        "title": "A kis herceg",
+        "author": "Antoine de Saint-Exupéry",
+        "description": "A kis herceg Antoine de Saint-Exupéry francia író híres novellája, amely egy űrbéli lakóval, a Kis Herceggel való találkozás történetét meséli el. A novella mély gondolatokat fogalmaz meg a felnőttek világáról és a gyermeki naivitásról.",
+        "year": 1943,
         "image": "6"
     },
     {
-        "title": "Az Iliász",
-        "author": "Homer",
-        "description": "Lorem Ipsum",
-        "year": -700,
+        "title": "Az aranykor",
+        "author": "Jenő Rejtő",
+        "description": "Az aranykor Jenő Rejtő magyar író krimi-regénye, amely egy piszkosul tehetséges, de elszegényedett zseniális művész, Nagy Bandó András kalandjait követi nyomon. A könyv humoros és fordulatos eseményekkel teli.",
+        "year": 1935,
         "image": "7"
     },
     {
-        "title": "A katedrális",
-        "author": "Ken Follett",
-        "description": "Lorem Ipsum",
-        "year": 1989,
+        "title": "Az idő urai",
+        "author": "Isaac Asimov",
+        "description": "Az idő urai Isaac Asimov amerikai író science fiction regénye, amely az emberi történelem alakulását és a különböző idősíkok közötti utazásokat elemzi. A regény izgalmas és intellektuális kihívásokkal teli.",
+        "year": 1955,
         "image": "8"
     },
     {
-        "title": "1984",
-        "author": "George Orwell",
-        "description": "Lorem Ipsum",
-        "year": 1949,
+        "title": "A Gyűrűk Ura",
+        "author": "J.R.R. Tolkien",
+        "description": "A Gyűrűk Ura J.R.R. Tolkien közismert és népszerű fantasy regénysorozata, mely az Újkorban játszódik. A történet középpontjában a Gyűrű áll, amelyet Sauron, a Sötétség Nagyúra készített, hogy uralma alá hajtsa a világot.",
+        "year": 1954,
         "image": "9"
     },
     {
-        "title": "A szél neve",
-        "author": "Patrick Rothfuss",
-        "description": "Lorem Ipsum",
-        "year": 2007,
+        "title": "Harry Potter és a bölcsek köve",
+        "author": "J.K. Rowling",
+        "description": "Harry Potter és a bölcsek köve J.K. Rowling angol írónő első regénye, amely a Harry Potter regénysorozatot indította el. A történet a fiatal varázsló, Harry Potter kalandjait követi nyomon a Roxfort Boszorkány- és Varázslóképző Szakiskolában.",
+        "year": 1997,
         "image": "10"
     },
     {
-        "title": "Az éhezők viadala",
-        "author": "Suzanne Collins",
-        "description": "Lorem Ipsum",
-        "year": 2008,
+        "title": "Az idő rövid története",
+        "author": "Stephen Hawking",
+        "description": "Az idő rövid története Stephen Hawking világhírű elméleti fizikus könyve, amelyben a kozmológiai elméleteket és az idő dimenzióját vizsgálja. A könyv népszerűen és érthetően fogalmazza meg a fizika legkomplexebb témáit.",
+        "year": 1988,
         "image": "11"
     },
     {
-        "title": "A Da Vinci-kód",
-        "author": "Dan Brown",
-        "description": "Lorem Ipsum",
-        "year": 2003,
+        "title": "Percy Jackson - Az olimposz hőse",
+        "author": "Rick Riordan",
+        "description": "Percy Jackson - Az Olimposz hőse Rick Riordan amerikai író ifjúsági regénysorozata, amely a görög mitológiát és a modern világot ötvözi. A történet Percy Jacksonról szól, aki felfedezi, hogy görög istenek leszármazottja és különleges képességei vannak.",
+        "year": 2005,
         "image": "12"
     }
 ]
