@@ -5,13 +5,38 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" href="bulma.css">
     <link rel="stylesheet" href="style.css">
     <title>Weblap</title>
 </head>
 
 <body>
     <div class="container">
-        <h1>Sablon</h1>
+            <div class="columns prodList is-multiline">
+                <div class="card column konyvecske is-one-third">
+                    <div class="card-image">
+                      <figure class="is-4by3">
+                        <img src="10.png" alt="Placeholder image" class="image">
+                      </figure>
+                    </div>
+                    <div class="card-content">
+                      <div class="media">
+                        <div class="media-content">
+                          <p class="title is-4 cim">Cím</p>
+                          <p class="subtitle is-6 szerzo">Szerző</p>
+                        </div>
+                      </div>
+                
+                    <div class="content leiras">
+                        Leírás
+                    </div>
+                        <div class="level">
+                            <div class="level-left level-item"><button class="button is-info gomb">Gomb</button></div>
+                            <div class="level-right level-item year">Évjárat</div>
+                        </div>
+                    </div>
+                  </div>
+            </div>
     </div>
     
     <script src="app.js"></script>

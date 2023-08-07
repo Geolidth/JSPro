@@ -1,0 +1,86 @@
+[
+    {
+        "title": "A Gyűrűk Ura",
+        "author": "J.R.R. Tolkien",
+        "description": "Lorem Ipsum",
+        "year": 1954,
+        "image": "1"
+    },
+    {
+        "title": "Harry Potter és a bölcsek köve",
+        "author": "J.K. Rowling",
+        "description": "Lorem Ipsum",
+        "year": 1997,
+        "image": "2"
+    },
+    {
+        "title": "Az idő rövid története",
+        "author": "Stephen Hawking",
+        "description": "Lorem Ipsum",
+        "year": 1988,
+        "image": "3"
+    },
+    {
+        "title": "Az Alkimista",
+        "author": "Paulo Coelho",
+        "description": "Lorem Ipsum",
+        "year": 1988,
+        "image": "4"
+    },
+    {
+        "title": "Május és társai",
+        "author": "Május József",
+        "description": "Lorem Ipsum",
+        "year": 1956,
+        "image": "5"
+    },
+    {
+        "title": "Don Quijote",
+        "author": "Miguel de Cervantes",
+        "description": "Lorem Ipsum",
+        "year": 1605,
+        "image": "6"
+    },
+    {
+        "title": "Az Iliász",
+        "author": "Homer",
+        "description": "Lorem Ipsum",
+        "year": -700,
+        "image": "7"
+    },
+    {
+        "title": "A katedrális",
+        "author": "Ken Follett",
+        "description": "Lorem Ipsum",
+        "year": 1989,
+        "image": "8"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "description": "Lorem Ipsum",
+        "year": 1949,
+        "image": "9"
+    },
+    {
+        "title": "A szél neve",
+        "author": "Patrick Rothfuss",
+        "description": "Lorem Ipsum",
+        "year": 2007,
+        "image": "10"
+    },
+    {
+        "title": "Az éhezők viadala",
+        "author": "Suzanne Collins",
+        "description": "Lorem Ipsum",
+        "year": 2008,
+        "image": "11"
+    },
+    {
+        "title": "A Da Vinci-kód",
+        "author": "Dan Brown",
+        "description": "Lorem Ipsum",
+        "year": 2003,
+        "image": "12"
+    }
+]
