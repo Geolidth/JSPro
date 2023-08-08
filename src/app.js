@@ -63,28 +63,6 @@ class Product{
     }
 };
 
-/*fetch('konyvek.json')
-.then(response => response.json())
-.then(productsData => {
-  const ProductListElement = document.querySelector(".prodList");
-
-  productsData.forEach(productInfo => {
-    const UITemplate = document.querySelector(".konyvecske");
-    const ShopUI = new UI(UITemplate);
-    const product = new Product(productInfo);
-
-    ShopUI.setProductCim(product.getTitle());
-    ShopUI.setProductEvjarat(product.getYear());
-    ShopUI.setProductImage(product.getImage());
-    ShopUI.setProductLeiras(product.getDescription());
-    ShopUI.setProductSzerzo(product.getAuthor());
-
-    ShopUI.appendTo(ProductListElement);
-  });
-})
-.catch(err => {
-  console.error('Hiba történt az olvasás során:', err);
-});*/
 fetch('konyvek.json')
 .then(response => response.json())
 .then(productsData => {
